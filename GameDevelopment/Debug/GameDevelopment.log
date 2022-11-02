@@ -1,0 +1,113 @@
+﻿  GameEngine.cpp
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(305): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(281): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(485): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(498): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(500): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(511): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(531): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(540): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(565): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(573): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(629): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(638): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(671): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(724): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(741): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(744): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(748): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(761): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(766): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(773): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(493): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(840): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(845): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(886): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(803): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(981): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1041): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1043): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1078): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1080): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1090): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1092): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1273): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1012): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1414): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1489): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1508): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1510): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1599): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1601): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1432): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1678): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1688): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1654): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1947): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1922): warning C4101: 'mouse': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(1924): warning C4101: 'deltaTime': unreferenced local variable
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(2042): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(2201): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(2220): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(2222): warning C4018: '<': signed/unsigned mismatch
+d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(2230): warning C4018: '<': signed/unsigned mismatch
+d:\gamedata\visualstudio\vc\tools\msvc\14.15.26726\include\utility(240): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=long double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(765): note: see reference to function template instantiation 'std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,long double,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,long double> &&) noexcept' being compiled
+  d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(765): note: see reference to function template instantiation 'std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,long double,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,long double> &&) noexcept' being compiled
+d:\gamedata\visualstudio\vc\tools\msvc\14.15.26726\include\utility(240): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(855): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<std::string,int,0>(std::pair<std::string,int> &&) noexcept' being compiled
+  d:\importantthanlife\gamedevelopment\gamedevelopment\gameengine.cpp(855): note: see reference to function template instantiation 'std::pair<std::string,float>::pair<std::string,int,0>(std::pair<std::string,int> &&) noexcept' being compiled
+  GameDevelopment.vcxproj -> D:\ImportantThanLife\GameDevelopment\Debug\GameDevelopment.exe

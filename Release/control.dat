@@ -1,0 +1,18 @@
+<player0>
+<key name="keyMoveUp0">  22</key>
+<key name="keyMoveDown0">  18</key>
+<key name="keyMoveLeft0">   0</key>
+<key name="keyMoveRight0">   3</key>
+<key name="keyMoveAttack0">   9</key>
+<key name="keyMoveJump0">  10</key>
+<key name="keyMoveDefend0">  11</key>
+</player0>
+<player1>
+<key name="keyMoveUp1">  19</key>
+<key name="keyMoveDown1">   6</key>
+<key name="keyMoveLeft1">   5</key>
+<key name="keyMoveRight1">   7</key>
+<key name="keyMoveAttack1">  14</key>
+<key name="keyMoveJump1">  15</key>
+<key name="keyMoveDefend1">  46</key>
+</player1>

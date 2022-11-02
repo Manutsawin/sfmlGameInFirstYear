@@ -1,0 +1,17 @@
+﻿  Animation.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\image.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collision.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\collision.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Draw.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\image.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameControl.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\image.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameEngine.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\gameengine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Image.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\image.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\gameengine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+d:\game's\gamedevelopment-20181114t071926z-001\gamedevelopment\gamedevelopment\image.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...

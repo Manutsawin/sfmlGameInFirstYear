@@ -1,0 +1,36 @@
+<player0>
+<key name="keyMoveUp0">   0,   0,  -1,  22</key>
+<key name="keyMoveDown0">   0,   0,  -2,  18</key>
+<key name="keyMoveLeft0">   0,   0,  -3,   0</key>
+<key name="keyMoveRight0">   0,   0,  -4,   3</key>
+<key name="keyMoveAttack0">   0,   0,   2,   9</key>
+<key name="keyMoveJump0">   0,   0,   0,  10</key>
+<key name="keyMoveDefend0">   0,   0,   1,  11</key>
+</player0>
+<player1>
+<key name="keyMoveUp1">   0,   1,  -1,  73</key>
+<key name="keyMoveDown1">   0,   1,  -2,  74</key>
+<key name="keyMoveLeft1">   0,   1,  -3,  71</key>
+<key name="keyMoveRight1">   0,   1,  -4,  72</key>
+<key name="keyMoveAttack1">   0,   1,   2,  76</key>
+<key name="keyMoveJump1">   0,   1,   0,  77</key>
+<key name="keyMoveDefend1">   0,   1,   1,  78</key>
+</player1>
+<player2>
+<key name="keyMoveUp2">   0,   0,   0,  73</key>
+<key name="keyMoveDown2">   0,   0,   0,  74</key>
+<key name="keyMoveLeft2">   0,   0,   0,  71</key>
+<key name="keyMoveRight2">   0,   0,   0,  72</key>
+<key name="keyMoveAttack2">   0,   0,   0,  76</key>
+<key name="keyMoveJump2">   0,   0,   0,  77</key>
+<key name="keyMoveDefend2">   0,   0,   0,  78</key>
+</player2>
+<player3>
+<key name="keyMoveUp3">   0,   1,  -1,  77</key>
+<key name="keyMoveDown3">   0,   1,  -2,  77</key>
+<key name="keyMoveLeft3">   0,   1,  -3,  77</key>
+<key name="keyMoveRight3">   0,   1,  -4,  72</key>
+<key name="keyMoveAttack3">   0,   1,   2,  76</key>
+<key name="keyMoveJump3">   0,   1,   0,  77</key>
+<key name="keyMoveDefend3">   0,   1,   1,  78</key>
+</player3>
